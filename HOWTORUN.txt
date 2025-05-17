@@ -1,0 +1,8 @@
+HOW TO RUN THIS ..
+1. OPEN CMD IN SIDE PS C:\Users\Kushagra Bajpai\OneDrive\Desktop\Wild-Alert 
+
+2. GO INTO THE ENVIRONMRNT BY RUNNING "venv\Scripts\activate" WHERE ALL THE LIB ARE THERE AND ACTIVATE THEM .
+
+3. RUN   PYTHON MAIN.PY..
+
+SEE CHAT ON https://chatgpt.com/share/67483e08-cc30-8006-837e-66b24d97c180
